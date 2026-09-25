@@ -10,6 +10,8 @@
             
 # check_prime(9)
 
+
+
 def prime(n):
     if n <= 1:
         return "Not prime"
